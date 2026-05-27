@@ -63,3 +63,9 @@ Example outputs:
 - scarlet color
 - dusty lavender color
 - sand color
+
+## Support
+
+If Chroma Flow saved you a few annoying clicks:
+
+☕ https://ko-fi.com/leonhearts
