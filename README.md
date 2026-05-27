@@ -73,3 +73,6 @@ Example outputs:
 If Chroma Flow saved you a few annoying clicks:
 
 ☕ https://ko-fi.com/leonhearts
+
+Totally optional.
+Honestly I'm just happy if the tool ends up being useful to someone.
