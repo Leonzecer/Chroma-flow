@@ -41,17 +41,21 @@ Built to solve a tiny but annoying workflow problem
 
 ## Installation
 
-1. Open your Forge `extensions` folder
+1. Open your Forge installation folder
 
-2. Clone this repository:
+2. Navigate to:
+
+```txt
+stable-diffusion-webui-forge/extensions
+```
+
+3. Clone this repository inside the extensions folder:
 
 ```bash
 git clone https://github.com/Leonzecer/Chroma-flow.git
 ```
 
-3. Restart Forge
-
-4. Chroma Flow will appear inside the UI
+4. Restart Forge
 
 ## How to use
 
