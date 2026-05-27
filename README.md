@@ -6,9 +6,9 @@
 <img width="1080" height="1080" alt="rt3" src="https://github.com/user-attachments/assets/945b2901-6f81-4539-a388-cb7cd2924fbf" />
 
 
-A tiny utility for turning raw colors into human-readable color identities.
+A Forge extension that turns raw colors into human-readable prompt identities.
 
-Designed for Stable Diffusion / Forge workflows where describing colors consistently becomes annoying.
+Designed for Stable Diffusion workflows where describing colors consistently becomes annoying.
 
 ## Why?
 AI workflows often hit a weird bottleneck:
